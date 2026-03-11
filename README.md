@@ -4,7 +4,7 @@
 
 A small React Three Fiber prototype for 3D product viewing, finish selection, and camera interaction, built as a portfolio piece for spatial and AR-oriented frontend roles.
 
-**Live demo:** [your-vercel-url]  
+**Live demo:** [r3f-furniture-viewer.vercel.app](https://r3f-furniture-viewer.vercel.app)  
 **Portfolio:** [kpi-dashboard-six-theta.vercel.app](https://kpi-dashboard-six-theta.vercel.app)
 
 ---
@@ -13,11 +13,11 @@ A small React Three Fiber prototype for 3D product viewing, finish selection, an
 
 This project is a simple furniture-style 3D viewer featuring a modular sofa and coffee table in an interactive scene. It focuses on product-style interactions rather than complex 3D features.
 
-### Features
+## Features
 
 - Interactive 3D furniture scene
 - Finish selection with live color updates
-- Orbit controls for rotate and zoom
+- Orbit controls for rotation and zoom
 - Reset view action
 - Grab/grabbing cursor feedback
 - Basic lighting and shadows for depth
@@ -37,9 +37,9 @@ This project is a simple furniture-style 3D viewer featuring a modular sofa and 
 
 ## Why I Built It
 
-My background is in frontend engineering, with a focus on interactive UI and data visualization. Since this role involves spatial and AR-inspired product experiences, I built this prototype to get hands-on with React Three Fiber and better understand 3D scene composition in a React environment.
+My background is in frontend engineering, with a focus on interactive UI and data visualisation. I built this prototype to get hands-on with React Three Fiber and better understand 3D scene composition in a React environment.
 
-The goal was to explore practical product-viewer patterns such as scene setup, mesh composition, lighting, camera controls, and UI-driven state changes.
+The goal was to explore practical product-viewer patterns: scene setup, mesh composition, lighting, camera controls, and UI-driven state changes.
 
 ---
 
